@@ -1,0 +1,42 @@
+#-----------------------------------------------------------
+# PlanAhead v14.7
+# Build 321239 by xbuild on Fri Sep 27 19:31:35 MDT 2013
+# Start of session at: Mon Jan 18 12:38:34 2021
+# Process ID: 1312
+# Log file: E:/TrafficLight/planAhead_run_1/planAhead.log
+# Journal file: E:/TrafficLight/planAhead_run_1/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source E:/TrafficLight/pa.fromHdl.tcl
+update_compile_order -fileset sim_1
+startgroup
+set_property package_pin M21 [get_ports cp]
+endgroup
+startgroup
+set_property package_pin N24 [get_ports {izlaz[0]}]
+endgroup
+startgroup
+set_property package_pin C6 [get_ports {izlaz[1]}]
+endgroup
+startgroup
+set_property package_pin N23 [get_ports {izlaz[2]}]
+endgroup
+startgroup
+set_property package_pin D6 [get_ports {izlaz[3]}]
+endgroup
+startgroup
+set_property package_pin M24 [get_ports {izlaz[4]}]
+endgroup
+startgroup
+set_property package_pin C7 [get_ports {izlaz[5]}]
+endgroup
+startgroup
+set_property package_pin L24 [get_ports {izlaz[6]}]
+endgroup
+startgroup
+set_property package_pin L23 [get_ports {izlaz[7]}]
+endgroup
+startgroup
+set_property package_pin C9 [get_ports {izlaz[8]}]
+endgroup
+save_constraints

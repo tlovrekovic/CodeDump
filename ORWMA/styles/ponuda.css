@@ -1,0 +1,91 @@
+main{
+    display: grid;
+    grid-template-columns: 0.5fr ;
+    grid-template-rows: minmax(100px, auto);
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-bottom: 16px;
+
+}
+#feed{
+    max-width: 100%;
+    height: auto;
+    border-radius: 16px;
+}
+
+#feed-text{
+    padding: 16px;
+}
+
+#feed-text h1{
+    font-family:  'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+#price-text h2{
+    font-family:  'Arial Narrow', Arial, sans-serif;
+    font-size: 40px
+    
+}
+
+#feed-text p{
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+.ponuda1-pic{
+    grid-column: 1;
+    grid-row: 1;
+
+}
+
+.ponuda1-text{
+    grid-column:2 ;
+    grid-row:1 ;
+}
+
+.ponuda2-pic{
+    grid-column: 1;
+    grid-row: 2;
+
+}
+.ponuda2-text{
+    grid-column: 2;
+    grid-row: 2;
+}
+.ponuda3-pic{
+    grid-column: 1;
+    grid-row: 3;
+
+}
+.ponuda3-text{
+    grid-column: 2;
+    grid-row: 3;
+}
+.ponuda4-pic{
+    grid-column: 1;
+    grid-row: 4;
+
+}
+.ponuda4-text{
+    grid-column: 2;
+    grid-row: 4;
+}
+.ponuda5-pic{
+    grid-column: 1;
+    grid-row: 5;
+
+}
+.ponuda5-text{
+    grid-column: 2;
+    grid-row: 5;
+}
+.ponuda6-pic{
+    grid-column:1;
+    grid-row: 6;
+
+}
+.ponuda6-text{
+    grid-column: 2;
+    grid-row: 6;
+}
+
+

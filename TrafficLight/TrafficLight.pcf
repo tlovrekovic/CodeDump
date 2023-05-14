@@ -1,0 +1,17 @@
+//! **************************************************************************
+// Written by: Map P.58f on Sun Jul 03 23:53:34 2022
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "cp" LOCATE = SITE "M21" LEVEL 1;
+COMP "izlaz<0>" LOCATE = SITE "N24" LEVEL 1;
+COMP "izlaz<1>" LOCATE = SITE "C6" LEVEL 1;
+COMP "izlaz<2>" LOCATE = SITE "N23" LEVEL 1;
+COMP "izlaz<3>" LOCATE = SITE "D6" LEVEL 1;
+COMP "izlaz<4>" LOCATE = SITE "M24" LEVEL 1;
+COMP "izlaz<5>" LOCATE = SITE "C7" LEVEL 1;
+COMP "izlaz<6>" LOCATE = SITE "L24" LEVEL 1;
+COMP "izlaz<7>" LOCATE = SITE "L23" LEVEL 1;
+COMP "izlaz<8>" LOCATE = SITE "C9" LEVEL 1;
+SCHEMATIC END;
+

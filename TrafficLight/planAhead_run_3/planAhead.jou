@@ -1,0 +1,11 @@
+#-----------------------------------------------------------
+# PlanAhead v14.5 (64-bit)
+# Build 247527 by xbuild on Mon Mar 25 17:13:07 MDT 2013
+# Start of session at: Sun Jul 03 23:49:55 2022
+# Process ID: 11196
+# Log file: F:/FinishedDE/TrafficLight/planAhead_run_3/planAhead.log
+# Journal file: F:/FinishedDE/TrafficLight/planAhead_run_3/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source F:/FinishedDE/TrafficLight/pa.fromHdl.tcl
+update_compile_order -fileset sim_1

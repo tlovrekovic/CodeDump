@@ -1,0 +1,21 @@
+
+  .flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    max-height: 200vh; 
+  }
+  .staff {
+    width: 400px;
+    margin: 100px;
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 6px 0px  rgba(0,0,0,0.3);
+  } 
+  .staff img {
+    max-width: 100%;
+  }
+  .staff .text {
+    padding: 0 20px 20px;
+  }
+ 

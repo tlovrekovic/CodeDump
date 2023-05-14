@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=F:\FinishedDE\TrafficLight\TrafficLight.ncd
+OUTFILE=F:\FinishedDE\TrafficLight\TrafficLight.bit
+FAMILY=Spartan6
+PART=xc6slx45-2fgg676
+WORKINGDIR=F:\FinishedDE\TrafficLight
+LICENSE=ISE
+USER_INFO=212120598_0_0_021

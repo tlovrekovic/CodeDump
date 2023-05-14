@@ -1,0 +1,2 @@
+vhdl isim_temp "freqDivGen.vhd"
+vhdl isim_temp "TrafficLight.vhd"

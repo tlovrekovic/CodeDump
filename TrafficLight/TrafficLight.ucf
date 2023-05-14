@@ -1,0 +1,13 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "cp" LOC = M21;
+NET "izlaz[0]" LOC = N24;
+NET "izlaz[1]" LOC = C6;
+NET "izlaz[2]" LOC = N23;
+NET "izlaz[3]" LOC = D6;
+NET "izlaz[4]" LOC = M24;
+NET "izlaz[5]" LOC = C7;
+NET "izlaz[6]" LOC = L24;
+NET "izlaz[7]" LOC = L23;
+NET "izlaz[8]" LOC = C9;
